@@ -1,4 +1,6 @@
-### Olá, Folks! I'm Fannine Silva, Welcome.
+### Olá, Folks!   I'm Fannine Silva.
+
+Welcome.
 
 
 - 🔭 Apaixonado por tecnologia
